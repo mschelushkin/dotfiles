@@ -1,0 +1,9 @@
+brew install jq
+brew install ghostty
+brew install tmux
+brew install aerospace
+brew install eza
+brew install fzf
+brew install neovim
+brew install lazygit
+brew install stow

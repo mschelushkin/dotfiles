@@ -1,0 +1,14 @@
+theme = GruvboxDark
+font-family = "Mononoki Nerd Font Mono"
+
+font-size = 18
+
+font-thicken = true
+cursor-style = block
+ shell-integration-features = no-cursor
+# shell-integration = zsh
+# shell-integration-features = cursor,sudo
+keybind = cmd+backspace=esc:w
+
+
+custom-shader = shaders/starfield_shader.glsl

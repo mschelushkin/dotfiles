@@ -1,0 +1,7 @@
+os:
+  editPreset: 'nvim'
+
+keybinding:
+  universal:
+    quit: '<c-c>'
+
