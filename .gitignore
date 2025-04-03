@@ -1,0 +1,6 @@
+nvim/.config/nvim/workspace/*
+nvim/.config/nvim/.luarc.json
+nvim/.config/nvim/lazy-lock.json
+
+tmux/.config/tmux/plugins/*
+
